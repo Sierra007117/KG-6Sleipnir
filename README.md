@@ -4,3 +4,6 @@
 | VCC | 5V      | 2/4          | 5V      |
 | DI0 | Data in | 18           | GPIO 24 |
 | CLK | Clock   | 16           | GPIO 23 |
+
+
+ ![Alt Text](https://github.com/Sierra007117/KG-6Sleipnir/blob/master/pi.jpg)
